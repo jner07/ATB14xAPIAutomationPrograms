@@ -2,7 +2,7 @@ package org.example;
 
 import io.restassured.RestAssured;
 
-public class BasicMethodd {
+public class BasicMethod {
     public static void main(String[] args) {
         RestAssured.
                 given().baseUri("https://google.com").log().all().
