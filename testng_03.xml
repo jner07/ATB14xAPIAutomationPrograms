@@ -4,7 +4,7 @@
     <test verbose="2" preserve-order="true" name="C:/Users/jayes/IdeaProjects/ATB14xAPIAutomationPrograms">
         <classes>
 
-            <class name="org.example.ex_04_RestAssuredMethods.ex_01_GetMethod.ex_01_GetMethod.API02_Get_NONBDD_Style">
+            <class name="ex_01_GetMethod.org.example.ex_04_RestAssuredMethods.API02_Get_NONBDD_Style">
                 <methods>
                     <include name="test_GET_NONBDD_style"/>
                 </methods>

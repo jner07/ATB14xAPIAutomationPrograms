@@ -1,4 +1,4 @@
-package org.example.ex_04_RestAssuredMethods.ex_01_GetMethod.ex_01_GetMethod;
+package org.example.ex_04_RestAssuredMethods.ex_01_GetMethod;
 
 import io.restassured.RestAssured;
 import io.restassured.response.Response;

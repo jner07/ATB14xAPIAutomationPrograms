@@ -1,4 +1,4 @@
-package org.example.ex_04_RestAssuredMethods.ex_01_GetMethod.ex_02_POSTMethod;
+package org.example.ex_04_RestAssuredMethods.ex_02_POSTMethod;
 
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
