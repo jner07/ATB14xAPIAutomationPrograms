@@ -3,16 +3,10 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/Users/jayes/IdeaProjects/ATB14xAPIAutomationPrograms">
 
-        <groups>
-                <run>
-                        <include name="reg">
-                         </include>
-        </run>
-        </groups>
-
+       <parameter name="browser" value="firefox"></parameter>
 
         <classes>
-            <class name="org.example.ex_04_RestAssuredMethods.ex_06_TestNG_advance.API04_testNG_groups">
+            <class name="org.example.ex_04_RestAssuredMethods.ex_06_TestNG_advance.API06_testNG_parameters">
             </class>
         </classes>
     </test>
